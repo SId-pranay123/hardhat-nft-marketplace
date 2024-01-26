@@ -48,16 +48,6 @@ cd hardhat-nft-marketplace
 yarn
 ```
 
-## Typescript
-
-TODO!!
-
-For the typescript edition, run:
-
-```
-git checkout typescript
-```
-
 # Usage
 
 Deploy:
